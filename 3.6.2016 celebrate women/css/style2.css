@@ -1,0 +1,45 @@
+/*trying to get the 2 columns working */
+
+
+#text{
+    padding-right:30px;
+    padding-left: 30px;
+    padding-top: 0px;
+    font-family: Futura;
+    float: left;
+    max-width: 700px;
+
+}
+
+
+img {
+    max-width: 300px;
+    padding-right: 30px;
+    padding-top: 20px;
+    margin-top: 60px
+    height: auto;
+    background-size:contain;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#pics{
+    float:right;
+    max-width: 400px;
+    height: 100%;
+    width:auto;
+    padding-right: 30px;
+
+}
+
+#contact{
+    padding-left: 30px;
+}
+
+#header {
+    background-color:transparent;
+    color:transparent;
+    text-align:center;
+    padding:2px;
+}
